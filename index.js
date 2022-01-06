@@ -1,23 +1,101 @@
 const imgArray = [
+
     {
-        imgSrc: "./img/watch1.jpg",
-        alt: "wtach1",
-        title: "Watch1"
+       
+        imgSrc : "./img/perfume1.jpg",
+        alt : "perfume",
+        title: "Aqua Di Gio POUR HOMME Perfume",
+       
     },
     {
-        imgSrc: "./img/bracelet.jpg",
-        alt: "bracelet",
-        title: "Bracelet"
+      
+        imgSrc : "./img/perfume2.jpg",
+        alt : "perfume",
+        title: "Versace EROS perfume",
+      
     },
     {
-        imgSrc: "./img/shoes1.jpg",
-        alt: "shoes1",
-        title: "shoes"
+    
+        imgSrc : "./img/glass1.jpg",
+        alt : "Glass",
+        title: "Glasses",
+     
     },
     {
-        imgSrc: "./img/perfume1.jpg",
-        alt: "perfume",
-        title: "perfume"
+        
+        imgSrc : "./img/bracelet.jpg",
+        alt : "Bracelet",
+        title: "Brcelet",
+   
+    },
+    {
+ 
+        imgSrc : "./img/shoes1.jpg",
+        alt : "Shoes",
+        title: "Brown Sneakers",
+     
+    },
+    {
+        
+        imgSrc : "./img/knife.jpg",
+        alt : "knife",
+        title: "Combat Knife",
+  
+    },
+    {
+  
+        imgSrc : "./img/glass2.jpg",
+        alt : "glasses",
+        title: "glasses",
+    
+    },
+    {
+       
+        imgSrc : "./img/shoes3.jpg",
+        alt : "Shoes",
+        title: "Formal Shoes",
+ 
+    },
+    {
+        imgSrc : "./img/shoes2.jpg",
+        alt : "Shoes",
+        title: "Chelsea Boots",
+     
+    },
+    {
+   
+        imgSrc : "./img/glass5.jpg",
+        alt : "Glasses",
+        title: "Sunglasses",
+     
+    },
+    {
+       
+        imgSrc : "./img/watch1.jpg",
+        alt : "Watch",
+        title: "Analog Watch",
+    
+    },
+    {
+     
+        imgSrc : "./img/perfume3.jpg",
+        alt : "perfume",
+        title: "Diesel Fuel For Life Perfume",
+    
+    },
+    {
+     
+        imgSrc : "./img/bracelet1.jpg",
+        alt : "Bracelet",
+        title: "Bracelet",
+        
+    },
+    {
+     
+        imgSrc : "./img/watch2.jpg",
+        alt : "Watch",
+        title: "Analog Watch",
+       
     }
 ]
 
