@@ -45,12 +45,18 @@ for(let i=0; i<=imgArray.length-1; i++){
 
 
     imageCard.addEventListener('click', () =>{
+
+        const modal = document.querySelector('.modal');
+        modal.style.display = "flex";
             addImage(i)
         console.log('hello')
         const prev = document.getElementById('prev');
         
         prev.addEventListener('click', () =>{
-            addImage(i--)
+            
+            if(i >=0 ){
+                addImage(i--)
+            }
         })
        
     })

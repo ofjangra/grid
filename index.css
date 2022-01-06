@@ -58,7 +58,7 @@
     overflow: hidden;
     background-color: aqua;
     /* overflow: hidden; */
-    /* display: none; */
+    display: none;
 }
 .modal_image{
     height: 100%;
