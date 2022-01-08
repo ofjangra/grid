@@ -106,4 +106,8 @@
     position: absolute;
     top: 20px;
     right: 20px;
+    height: 32px;
+    width: 32px;
+    cursor: pointer;
+    border: 1px solid black;
 }
